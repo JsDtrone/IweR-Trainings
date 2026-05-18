@@ -1,0 +1,190 @@
+{
+  "middle": {
+    "tren": "Training #1 in the CIS!",
+    "choose": "Choose your game:"
+  },
+  "how-to-buy": {
+    "how": "How to purchase",
+    "link": "Hi, if you want to purchase a training, write to us in the chat located at the link below",
+    "back": "Back"
+  },
+  "all": {
+    "trents": "COACHES",
+    "play-better": "Play better!",
+    "answers-title": "ANSWERS TO QUESTIONS",
+    "buy": "Buy",
+    "question": {
+      "first": "How to purchase a coaches?",
+      "second": "How long will the training take after payment?",
+      "third": "Why should I buy a coaches?",
+      "forth": "I won't be deceived?",
+      "fifth": "I want to ask about training, who should I write to?"
+    },
+    "answers": {
+      "first": {
+        "first-line": "- click on 'purchase' and follow the instructions",
+        "second-line": "or write there"
+      },
+      "second": {
+        "first-line": " - from 1 day to 2 weeks (on average, training takes place ",
+        "second-line": "the next day, 2 weeks is the maximum period)"
+      },
+      "third": {
+        "first-line": "Esports players are not born, they become them. If you want",
+        "second-line": "you definitely need training to play at the pro level, that's a fact."
+      },
+      "forth": {
+        "first-line": "- We have been working since 2021 and have helped more than 500 become better",
+        "second-line": "players, we have the best coaches in Europe."
+      }
+    },
+    "WhyWe-title": "WHY WE?"
+  },
+  "fortnite": {
+    "spec": {
+      "prise": "from 785 $",
+
+      "firstLine": "Secret training sessions from the best players of the CIS and the world. ",
+      "secondLine": "They open after you purchase workouts ",
+      "fourthLine": "for more than 72 $"
+    },
+    "why": {
+      "first": " - Fortnite training #1 in the CIS.",
+      "second": "We have been working since February 2021 and have helped more than 500 players become better.",
+      "third": "We train some of the best pro-players in Europe.",
+      "forth": "Become pro, because you are with"
+    },
+    "card": {
+      "fiR3hUNTER": {
+        "cost": "15 $",
+        "firstLine": "fiR3hUNTER is one of the most experienced and successful",
+        "secondLine": "Fortnite esports players. He started his career back in 2018",
+        "thirdLine": "and for all the time of the game he managed to earn more than $ 12,800 thousand in-game",
+        "fourthLine": "irning! The fire also went to the finals of such tournaments as: TRIO FNCS FINALS, ",
+        "fifthLine": "Dreamhack, Solo FNCS FINALS and this is only a small part of its results, it's worth it",
+        "sixthLine": "to note that Sasha is one of the oldest fortnite players with a sea of experience ",
+        "seventhLine": "which I am ready to share with you"
+      },
+      "Shizoname": {
+        "cost": "47 $",
+        "firstLine": "Shizoname is one of the most stable pro players lately,",
+        "secondLine": "who has 109,000 pr and $66,000 in-game on his account",
+        "thirdLine": "earnings ! "
+      },
+      "Merstach": {
+        "cost": "129 $",
+        "firstLine": "Mersctach has 50k$ and 100k Power Ranges.",
+        "secondLine": "Andrey is one of the most stable player in trio mode",
+        "thirdLine": "together with their teammates, they have already been showing a lot for some season",
+        "fourthLine": "stable results and occupy leading places in tournaments. "
+      },
+      "GEDZ": {
+        "cost": "19 $",
+        "secondLine": "GEDZ is one of the most progressive pro players who ",
+        "thirdLine": "already has 50,000 pr and $5,000 in-game earnings on his account! "
+      },
+      "Wulfee": {
+        "cost": "35 $",
+
+        "firstLine": "Wulfee is one of Fortnite's most experienced and successful esports players.",
+        "secondLine": "Misha has been able to earn over $20,000 and 80,000 PR points during his career, ",
+        "thirdLine": "which is very good results. "
+      },
+      "WingS": {
+        "cost": "33 $",
+        "firstLine": "Wings is a professional and very promising Fortnite player,",
+        "secondLine": "who has a huge number of tournaments on his account. In season 17",
+        "thirdLine": "he was able to qualify for the finals of the main tournament of the FNCS Grand-Finals season.",
+        "fourthLine": "During his entire professional career, Mikhail was able to earn $ 21,955",
+        "fifthLine": "from official tournaments. WingS will be able to teach you many mechanics",
+        "sixthLine": "and game tips."
+      },
+      "Sp1aash": {
+        "cost": "27 $",
+        "firstLine": "Sp1aash is a professional player with a huge experience of the game",
+        "secondLine": "on the pro scene! He was able to qualify for the FNCS Grand Final 2 times and earn ",
+        "thirdLine": "more than $16,000 during his career. Artem is ready to teach you everything he ",
+        "fourthLine": "he knows!"
+      },
+      "GH FORTIK": {
+        "cost": "20 $",
+        "firstLine": "GH FORTIK is one of the best Asian players of all time",
+        "secondLine": "he managed to gain 107,000 PR and earn 10 thousand $",
+        "thirdLine": "from official tournaments. At the moment, he",
+        "fourthLine": "shows very good results, and believe me ",
+        "fifthLine": "he has a lot to learn "
+      }
+    }
+  },
+  "cs-go": {
+    "why-we": "- CS:GO training #1 in the CIS. We are coached by some of the strongest and most famous pro players in the Europe CS region:GO is a new unique direction in esports for us, in which we will help ordinary players achieve their desired result.",
+    "become-pro": "Become pro, because you're with IweR!",
+    "card": {
+      "KENSI": {
+        "prise": "85 $",
+        "firstLine": "Strong individual player, stands for esports",
+        "secondLine": "FORZE organization, qualified for PGL Major Antwerp 2022",
+        "role": "Role: rifler"
+      },
+      "MDS": {
+        "prise": "29 $",
+        "firstLine": "Professional CS:GO player, played for the Nemiga Gaming team,",
+        "secondLine": "currently earned $31,000 during his career as a pro player",
+        "role": "Role: lurker/support"
+      },
+      "lollipop21k": {
+        "prise": "47 $",
+        "firstLine": "Professional player playing for the 1WIN team, one of the",
+        "secondLine": "the most promising players in the CIS, also played for the Nemiga team",
+        "role": "Role: lurker/prop"
+      }
+    }
+  },
+  "valorant": {
+    "why": {
+      "first": "- training #1 on Valorant in the CIS. We train some of the strongest and most famous pro players in the EMEA region.",
+      "second": "Valorant is a new direction in which ordinary players can learn from the best.",
+      "third": "Become pro, because you are with"
+    },
+    "card": {
+      "FacePalm": {
+        "prise": "79 $",
+        "firstLine": "FacePalm is a purposeful and promising player,",
+        "secondLine": "and any player will envy his game with operator! ",
+        "thirdLine": "Maximum rank: Radiant"
+      },
+      "g30rg1kGod": {
+        "prise": "12 $",
+        "firstLine": "g30rg1kGod is a very experienced and promising player, he knows ",
+        "secondLine": "about Valorant everything you need to win. ",
+        "thirdLine": "Its maximum rank: Radiant"
+      },
+      "Roundzz": {
+        "prise": "47 $",
+        "firstLine": "Roundzz is a content maker, pro player, streamer.",
+        "secondLine": "He is a very promising player in Valorant, and his shooting",
+        "fourthLine": "many players will envy.",
+        "thirdLine": "His maximum rank: IMMORTAL 3"
+      },
+      "EZBRZY": {
+        "prise": "33 $",
+        "firstLine": "EZBRZY is a pro player, a rotateit genius, experienced or just",
+        "secondLine": "the best in his field, he has won a lot of skating rinks and broken. ",
+        "thirdLine": "His maximum rank: IMMORTAL 2"
+      },
+      "R4VE": {
+        "prise": "25 $",
+        "firstLine": "His achievements: Caseking Valorant Party - Cup 6 1st place, Snow cup final 4th place, Eu ranked #65 (episode 1 act 2), ",
+        "secondLine": "Tusovka cup 3rd place, GO2DEN Kill The Boss Stage 4 FINAL 1st place, Second tournament of the Moscow Esports series 2nd place,",
+        "fourthLine": "VERSUS LEGENDS II 9th-16th place Circuito de Elite - Round #1 9th–12th place",
+        "thirdLine": "Maximum Radian Rank"
+      },
+      "ODINN": {
+        "prise": "17 $",
+        "firstLine": "Bogdan 'odinN' Odinson is one of the best analysts and content makers of Valorant. ",
+        "secondLine": "He knows the latest chips and linups, and his game and knowledge can only be envied.",
+        "thirdLine": "His maximum rank: RADIANT "
+      }
+    }
+  }
+}
